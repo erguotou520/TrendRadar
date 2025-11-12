@@ -23,25 +23,6 @@ DJI
 稚晖君
 彭志辉
 
-黑神话
-冯骥
-
-影之刃零
-梁其伟
-
-哪吒
-饺子
-杨宇
-!车
-!餐
-
-三体
-流浪地球
-刘慈欣
-郭帆
-
-申奥
-
 京东
 刘强东
 
@@ -59,8 +40,6 @@ Microsoft
 NVIDIA
 黄仁勋
 
-AMD
-
 谷歌
 google
 gemini
@@ -72,11 +51,6 @@ sora
 
 claude
 Anthropic
-
-iphone
-ipad
-mac
-ios
 
 ai
 !gai
@@ -111,3 +85,14 @@ ai
 宇宙
 飞船
 航空
+
+A股
+比特币
+BTC
+ETH
+大涨
+大跌
+暴涨
+市场情绪
+优质币
+特朗普
